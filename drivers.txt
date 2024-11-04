@@ -1,0 +1,5 @@
+*.amd.com
+*.asrock.com
+*.asus.com
+*.nvidia.com
+*.msi.com
